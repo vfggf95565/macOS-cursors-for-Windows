@@ -1,6 +1,6 @@
 ![حزمة مؤشرات macOS لنظام Windows](https://github.com/antiden/macOS-cursors-for-Windows/blob/main/screenshot.jpg)
 
-# حزمة مؤشرات macOS لنظام Windows: [EN](https://github.com/vfggf95565/macOS-cursors-for-Windows)
+# حزمة مؤشرات macOS لنظام [EN](https://github.com/vfggf95565/macOS-cursors-for-Windows) Windows: [EN](https://github.com/vfggf95565/macOS-cursors-for-Windows)
 هذه مؤشرات فقط لدقة 4K (3840 × 2160 بكسل).
 
 **نسختان مختلفتان:**
