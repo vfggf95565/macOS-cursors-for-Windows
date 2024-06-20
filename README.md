@@ -1,6 +1,6 @@
 ![macOS Cursors Megapack for Windows](https://github.com/antiden/macOS-cursors-for-Windows/blob/main/screenshot.jpg)
 
-# macOS Cursors Megapack for Windows
+# macOS Cursors Megapack for Windows[AR](https://github.com/vfggf95565/macOS-cursors-for-Windows/blob/main/README_ar.md)
 This is cursors only for 4K (3840 x 2160 pixel) resolution.
 
 **2 different versions:**
@@ -25,7 +25,9 @@ This is cursors only for 4K (3840 x 2160 pixel) resolution.
 
 ## Please Support me
 
-1. [YooMoney](https://yoomoney.ru/to/41001275586164)
+1. [PayPal](https://paypal.me/antiden?country.x=RU&locale.x=en_US)
+2. [BuyMeACoffee](https://www.buymeacoffee.com/antiden)
+3. [YooMoney](https://yoomoney.ru/to/41001275586164)
 
 ## Authors
 
